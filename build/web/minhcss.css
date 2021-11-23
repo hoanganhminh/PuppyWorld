@@ -1,0 +1,57 @@
+section {                
+    background-image: url("https://aws1.discourse-cdn.com/standard17/uploads/clockworkpi/original/2X/d/d91e00cff54955320460f6e8e8d5ed5db770297e.gif");
+}
+body {
+    cursor: url("css/rocket.png"),auto;
+    background-image: url("https://aws1.discourse-cdn.com/standard17/uploads/clockworkpi/original/2X/d/d91e00cff54955320460f6e8e8d5ed5db770297e.gif")
+}
+.bloc_left_price, .thegiatien, .themvaogio {
+    border: 2px solid red;
+    background-size: 50%;
+    transition: 0.5s all;
+    background-image: url("https://thumbs.gfycat.com/TestyAmusingElephantbeetle-max-1mb.gif")
+}
+.thecun:hover{
+    background-color: black !important;
+    color: aqua !important;
+    font-weight: bold;
+}
+.thecun.active{
+    background-color: black !important;
+    color: white !important;
+    border: 1px solid black;
+    font-weight: bold;
+}
+.thecho{
+    margin-bottom: 15px;
+    padding: 15px;
+    transition: 0.5s all;
+}
+.thecho:hover{
+    padding: 10px;
+}
+.noidungthecho{
+    border: 4px solid purple;
+    border-radius: 7px;
+    transition: 0.5s all;
+}
+.noidungthecho:hover{
+    border: 4px solid aqua;        
+}
+.noidungthecho h4 a{
+    transition: 0.5s all;
+}
+.noidungthecho:hover h4 a{
+    color: aqua !important;
+    font-size: 26px;
+}
+.thegiatien:hover,.themvaogio:hover{
+    color: aqua;
+    border: 2px solid aqua;
+}
+.khusanpham{
+    width: auto;
+    height: 200px !important;
+    overflow: auto;
+    border: 10px solid #F44336
+}
